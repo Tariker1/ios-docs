@@ -1,3 +1,9 @@
-# Alerting For App Stability - Crash Free Rates
+---
+description: >-
+  You can now get alerted on the Crash Free Sessions of the app to monitor the
+  stability of the app.
+---
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/GzrvmmXwRtKRl0J9jQA4/" %}
+# Alerting for App Stability - Crash Free Rates
+
+{% include "../../../.gitbook/includes/app-stability-alerting.md" %}

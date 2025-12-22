@@ -1,3 +1,10 @@
+---
+description: >-
+  The purpose of this page is to help you get started with APM for your iOS apps
+  by learning the definition of the dimensions we currently display on metrics
+  lists pages.
+---
+
 # Metrics & Dimensions
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/4fk78SfVfdncjRNDqRor/" %}
+{% include "../../.gitbook/includes/apm-metrics-and-dimensions.md" %}

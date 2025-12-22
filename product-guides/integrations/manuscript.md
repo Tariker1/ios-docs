@@ -1,3 +1,9 @@
+---
+description: >-
+  Track issues and collaborate with your team through forwarding all issues to
+  your Manuscript account at once.
+---
+
 # Manuscript
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/oxKdIyyxdr9mGhfuBZ7N/" %}
+{% include "../../.gitbook/includes/manuscript-integration.md" %}

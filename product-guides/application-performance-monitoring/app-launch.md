@@ -1,3 +1,10 @@
+---
+description: >-
+  This page covers Luciq's app launch definition, its APDEX calculation, how to
+  set your custom target, and all the details you need to know about the app
+  launch metric on your iOS apps.
+---
+
 # App Launch
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/305aa1biQubsDUpbYVpI/" %}
+{% include "../../.gitbook/includes/app-launch.md" %}

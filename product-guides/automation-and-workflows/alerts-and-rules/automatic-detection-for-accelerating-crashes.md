@@ -1,3 +1,4 @@
-# Automatic Detection For Accelerating Crashes
+# Automatic Detection for Accelerating Crashes
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/wjFzZavYJ7TidtlobszL/" %}
+{% include "../../../.gitbook/includes/alerting-detection-for-crashes.md" %}
+

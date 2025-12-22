@@ -6,4 +6,5 @@ description: >-
 
 # Screen Rendering
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/XSUheQEKp6dlb972tVD9/" %}
+{% include "../../.gitbook/includes/screen-rendering-guide.md" %}
+

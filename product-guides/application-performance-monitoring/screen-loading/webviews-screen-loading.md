@@ -1,3 +1,7 @@
+---
+description: Measure the loading performance of your WebViews with Web Vitals.
+---
+
 # WebViews Screen Loading
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/FCFZWU0A3zqueHBDHTWm/" %}
+{% include "../../../.gitbook/includes/webviews-screen-loading.md" %}

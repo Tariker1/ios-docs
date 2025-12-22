@@ -1,3 +1,3 @@
-# BaseCamp V2
+# Basecamp V2
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/plJgBO2TSg20thC1wsFQ/" %}
+{% include "../../../.gitbook/includes/basecamp-v2-integration.md" %}

@@ -1,3 +1,7 @@
 # GitLab
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/5erqd11D8ew31HUkXjIz/" %}
+{% include "../../.gitbook/includes/gitlab-integration.md" %}
+
+Issues forwarded to GitLab should look something like this:
+
+![](<../../.gitbook/assets/da56047 GitLab_ _Sample_Bug.png>)

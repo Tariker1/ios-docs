@@ -1,3 +1,3 @@
 # Jira Cloud
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/OyTStakiIIlfiQBrJVrR/" %}
+{% include "../../.gitbook/includes/jira-cloud.md" %}

@@ -1,3 +1,10 @@
+---
+description: >-
+  This section documents the guide you can use to collect specific details in
+  your bug reports from your QA team, internal testers, or beta testers on your
+  iOS apps.
+---
+
 # Extended Bug Report
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/uTbS4OyzEKBvq2Kdbxgf/" %}
+{% include "../../.gitbook/includes/extended-bug-report.md" %}

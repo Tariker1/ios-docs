@@ -1,3 +1,10 @@
+---
+description: >-
+  This page covers how you can set custom categories so that when a user tries
+  to report a bug or suggest an improvement, they can select the category for
+  the report.
+---
+
 # Report Categories
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/OeNYsrCRzi8BIMbGMKbG/" %}
+{% include "../../.gitbook/includes/report-categories.md" %}

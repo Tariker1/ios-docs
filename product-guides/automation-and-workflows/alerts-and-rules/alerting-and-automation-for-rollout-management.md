@@ -1,3 +1,10 @@
-# Alerting and Automation For Rollout Management
+---
+description: >-
+  Get alerted on the health and progress of your staged rollouts, or
+  automatically react to any performance problems.
+---
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/avJ71PyQJfgwbmhh5r95/" %}
+# Alerting and Automation for Rollout Management
+
+{% include "../../../.gitbook/includes/alerting-rollout-management.md" %}
+
