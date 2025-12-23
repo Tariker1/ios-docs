@@ -1,3 +1,8 @@
-# Alerting For Performance Metrics
+---
+description: How to get notified on your performance metrics.
+---
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/4eKbtiHkahATG1WXufvD/" %}
+# Alerting for Performance Metrics
+
+{% include "../../../.gitbook/includes/alerting-apm.md" %}
+

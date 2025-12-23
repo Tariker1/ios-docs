@@ -1,3 +1,8 @@
+---
+description: This page covers the compliance with GDPR.
+---
+
 # GDPR
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/pb3YidLmrXMKG76h0ILs/" %}
+{% include "../.gitbook/includes/gdpr-guide.md" %}
+

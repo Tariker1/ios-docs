@@ -1,3 +1,9 @@
+---
+description: >-
+  Plan ahead with your team and receive issues that matter right in your Pivotal
+  tracker. How to integrate?
+---
+
 # Pivotal Tracker
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/ae8djXh3wT6YFH8a0Acw/" %}
+{% include "../../.gitbook/includes/pivotal-tracker-integration.md" %}

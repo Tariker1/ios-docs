@@ -1,3 +1,9 @@
+---
+description: >-
+  This page covers the content found in the reports sent to the bugs page of
+  your dashboard and relevant APIs for your iOS apps.
+---
+
 # Report Types & Content
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/hl0dzKJjzstH9V8tPdSp/" %}
+{% include "../../.gitbook/includes/br-report-content.md" %}

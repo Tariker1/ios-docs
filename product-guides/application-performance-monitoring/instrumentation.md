@@ -1,3 +1,9 @@
+---
+description: >-
+  This page explains the automatic and custom instrumentations offered among
+  multiple APM metrics for iOS apps.
+---
+
 # Instrumentation
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/sDPkMRJV7dsqGtQa5YTZ/" %}
+{% include "../../.gitbook/includes/apm-instrumentation.md" %}

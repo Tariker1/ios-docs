@@ -1,3 +1,7 @@
+---
+description: You can integrate Luciq with Phabricator to forward all your issues to it.
+---
+
 # Phabricator
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/IuvFbSCe7y72HBsiGuVD/" %}
+{% include "../../.gitbook/includes/phabricator-integration.md" %}

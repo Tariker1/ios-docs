@@ -1,19 +1,19 @@
 ---
 description: >-
   This page contains an overview of the information available in the Session
-  Replay sections of the Luciq Docs for Android apps.
+  Replay sections of the Luciq Docs for iOS apps.
 ---
 
 # Session Replay
 
-## Features
+### Features
 
 ### Sessions List
 
 Sessions are sorted chronologically by default. You’ll see the following information for each session:
 
-1. **User Data:** The end-user's email/name and ID. By default, it shows Luciq's UUID, but you can override it with your internal IDs using the [User Identification API](https://docs.luciq.ai/docs/android-identify-user).
-2. **Session Type**: Any session that ends with a fatal crash or OOM is flagged as a crashing session. Any session that is affected by an App hang or a Force Restart is flagged as a frustrating session. Otherwise, a bucket is defined based on all the other metrics and occurrences (app launch, app traces, network, and UI hangs) that happened within the session. More examples can be found [here](https://docs.luciq.ai/docs/android-apm-app-apdex#how-does-sessions-bucketing-work).
+1. **User Data:** The end-user's email/name and ID. By default, it shows Luciq's UUID, but you can override it with your internal IDs using the [User Identification API](https://docs.luciq.ai/docs/ios-identify-user).
+2. **Session Type**: Any session that ends with a fatal crash or OOM is flagged as a crashing session. Any session that is affected by an App hang or a Force Restart is flagged as a frustrating session. Otherwise, a bucket is defined based on all the other metrics and occurrences (app launch, app traces, network, and UI hangs) that happened within the session. More examples can be found [here](https://docs.luciq.ai/docs/ios-apm-app-apdex#how-does-sessions-bucketing-work).
 3. **Session Issues**: The issues that happened during the session. These include crashes, app hangs, slow app launches, screen loadings, or execution traces as well as Force Restarts. This can help you identify sessions that require your attention.
 4. **Duration**: The length of the replay.
 5. **App Version**: The app version the user was on during the session.
@@ -61,7 +61,7 @@ A whole host of logs are sent with every session. These logs include:
 A session starts when the app is brought into the foreground and ends when it moves to the background or when it's terminated either by the OS or the user.
 
 {% hint style="info" %}
-**Foreground Only**
+#### Foreground Only
 
 We currently support session replay for foreground sessions only.
 {% endhint %}

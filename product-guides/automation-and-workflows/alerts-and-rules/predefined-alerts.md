@@ -1,3 +1,10 @@
+---
+description: >-
+  When you create a new app environment, default alert rules are created within
+  the Alerts & rules section.
+---
+
 # Predefined Alerts
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/tS6v5TvWObThcc62TJ60/" %}
+{% include "../../../.gitbook/includes/predefined-alerts.md" %}
+

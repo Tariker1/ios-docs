@@ -1,3 +1,9 @@
+---
+description: >-
+  This page covers how you can navigate the dashboard faster by using the
+  available keyboard shortcuts.
+---
+
 # Keyboard Shortcuts
 
-{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/zqnvW0uBsk8VyYDRAeDS/" %}
+{% include "../.gitbook/includes/keyboard-shortcuts.md" %}

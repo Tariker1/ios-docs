@@ -1,2 +1,2 @@
-# Getting Started With Luciq
+# Getting Started with Luciq
 
