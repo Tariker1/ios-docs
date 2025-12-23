@@ -7,3 +7,9 @@ description: >-
 # Application Performance Monitoring
 
 {% include "../../.gitbook/includes/apm-overview.md" %}
+
+{% hint style="info" %}
+#### Min Required SDK Version
+
+APM is supported starting iOS SDK version 10.0.0.
+{% endhint %}

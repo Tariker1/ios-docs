@@ -6,12 +6,6 @@ title: APM Overview
 
 If you are already using Luciq, but [Luciq App Performance Monitoring](https://www.luciq.ai/product/app-performance-monitoring) isn't included in your current plan, please reach out to us at [contactus@luciq.ai](mailto:contactus@luciq.ai). We would love to enable a custom trial for you and help you set it up.
 
-{% hint style="info" %}
-### Min Required SDK Version
-
-APM is supported starting iOS SDK version 10.0.0.
-{% endhint %}
-
 ## Supported Metrics
 
 * [**App Launch**](../../product-guides/application-performance-monitoring/app-launch.md)
