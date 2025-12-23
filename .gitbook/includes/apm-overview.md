@@ -16,7 +16,7 @@ APM is supported starting iOS SDK version 10.0.0.
 
 * [**App Launch**](../../product-guides/application-performance-monitoring/app-launch.md)
 * [**Network**](../../product-guides/application-performance-monitoring/network.md)
-* [**UI Hangs**](../../product-guides/application-performance-monitoring/ui-hangs.md)
+* [**Screen Rendering**](../../product-guides/application-performance-monitoring/screen-rendering.md)
 * [**Flows**](../../product-guides/application-performance-monitoring/flows/)
 * [**Screen Loading**](../../product-guides/application-performance-monitoring/screen-loading/)
 
