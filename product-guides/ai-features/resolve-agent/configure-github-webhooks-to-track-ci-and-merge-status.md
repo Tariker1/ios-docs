@@ -1,4 +1,3 @@
 # Configure GitHub Webhooks to Track CI & Merge Status
 
-{% include "../../../.gitbook/includes/configure-github-webhooks-to-track-ci-and-merge-status.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/IaymvWybaJawKqoOgF33/" %}

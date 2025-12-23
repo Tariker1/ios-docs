@@ -1,3 +1,3 @@
 # Triggered Alerts
 
-{% include "../../.gitbook/includes/triggered-alerts-content.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/R4G5rcKWQuOznxkb2lxR/" %}

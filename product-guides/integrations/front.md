@@ -1,5 +1,3 @@
 # Front
 
-{% include "../../.gitbook/includes/front-integration.md" %}
-
-Updated 15 days ago
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/S1BWteqpDpaQODeKYhqr/" %}

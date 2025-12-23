@@ -1,9 +1,3 @@
----
-description: >-
-  Forward your bug reports to your ClickUp workspace by following these simple
-  steps.
----
-
 # Clickup
 
-{% include "../../.gitbook/includes/clickup.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/3OkDZVm8h5IhM6dkuljp/" %}

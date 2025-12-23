@@ -1,7 +1,3 @@
----
-description: Debug ANR's and App Hangs efficiently
----
-
 # Flame Graphs
 
-{% include "../../.gitbook/includes/flame-graphs.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/3TFKkvd1WnEhjCnBuUmU/" %}

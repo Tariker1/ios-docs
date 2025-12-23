@@ -1,4 +1,3 @@
 # Resolve Agent
 
-{% include "../../../.gitbook/includes/resolve-agent.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/EWgtKMqCrpiviaKJhwQz/" %}

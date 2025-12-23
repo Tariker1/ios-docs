@@ -1,3 +1,3 @@
 # Issues List
 
-{% include "../../../.gitbook/includes/issues-list.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/NBgmmG7oKfWnhpzExSbj/" %}

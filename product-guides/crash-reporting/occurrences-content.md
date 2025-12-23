@@ -1,9 +1,3 @@
----
-description: >-
-  This page covers the content found in each occurrence page of all crash
-  reports in your dashboard for iOS apps.
----
-
 # Occurrences Content
 
-{% include "../../.gitbook/includes/crash-occurrence-content.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/yOvgvn0YzqKjTuN2j0xE/" %}

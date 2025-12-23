@@ -1,10 +1,3 @@
----
-description: >-
-  This page covers how you can use Proactive Reporting to prompt users to submit
-  feedback reports and how to configure it using APIs.
----
-
 # Proactive Bug Reporting
 
-{% include "../../.gitbook/includes/proactive-br.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/AsD4gVwPWiROfhr7smei/" %}

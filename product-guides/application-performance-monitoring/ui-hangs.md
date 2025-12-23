@@ -1,9 +1,7 @@
 ---
-description: >-
-  This page helps you get started with Luciq's UI hangs monitoring on iOS,
-  understand its definition, APDEX calculation, and customize your UI traces.
+hidden: true
 ---
 
 # UI Hangs
 
-{% include "../../.gitbook/includes/ui-hangs.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/pxXKeI6C2tZ2gvt3m6qi/" %}

@@ -1,8 +1,3 @@
----
-description: Get notified if a crash happens on the app
----
-
 # Alerting For Crash Reporting
 
-{% include "../../../.gitbook/includes/alerting-crash-reporting.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/JssVHSMi4UAXAOGtQAH9/" %}

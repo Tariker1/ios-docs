@@ -1,3 +1,3 @@
 # MCP Server Authentication & Setup
 
-{% include "../../../.gitbook/includes/mcp-auth.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/51Kb6HI07QcPYesxILtw/" %}

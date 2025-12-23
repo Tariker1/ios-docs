@@ -1,7 +1,3 @@
----
-description: Automate your workflow through Alerts & Rules
----
+# Alerting & Automation For Bug Reporting
 
-# Alerting & Automation for Bug Reporting
-
-{% include "../../../.gitbook/includes/alerting-automation-br-guide.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/ZBGOMiTL4PV33HeVbnf1/" %}

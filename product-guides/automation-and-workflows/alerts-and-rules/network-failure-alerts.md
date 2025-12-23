@@ -1,4 +1,3 @@
 # Network Failure Alerts
 
-{% include "../../../.gitbook/includes/alerting-network-failure.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/4oNfsysjpxKtmjlO30ft/" %}
