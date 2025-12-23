@@ -1,3 +1,3 @@
 # Frustration-Free Sessions
 
-{% include "../../../.gitbook/includes/frustration-free-sessions.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/7dFeWnePG8p3J2UJ9riW/" %}

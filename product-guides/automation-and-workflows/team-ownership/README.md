@@ -1,8 +1,3 @@
----
-description: Have ownership and get alerted if it's relevant to your team
----
+# Team Ownership
 
-# Team ownership
-
-{% include "../../../.gitbook/includes/team-ownership-guide.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/yvhyjeS62Z4m3d4eadXi/" %}

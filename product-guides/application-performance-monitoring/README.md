@@ -1,15 +1,9 @@
----
-description: >-
-  This page contains an overview of the information available in the App
-  Performance Monitoring sections of the Luciq Docs for iOS apps.
----
-
 # Application Performance Monitoring
 
-{% include "../../.gitbook/includes/apm-overview.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/7l59CcA4iTAjOkWyy22Z/" %}
 
 {% hint style="info" %}
 #### Min Required SDK Version
 
-APM is supported starting iOS SDK version 10.0.0.
+APM is supported starting Flutter SDK version 10.8.0.
 {% endhint %}

@@ -1,9 +1,3 @@
----
-description: >-
-  Flows provides visibility on the health and performance of the most important
-  user flows in your application.
----
-
 # Flows
 
-{% include "../../../.gitbook/includes/flows.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/s2oio4EVp2SFnkOaw6O4/" %}

@@ -1,4 +1,3 @@
 # Copying Alerts & Rules
 
-{% include "../../../.gitbook/includes/copying-alerts-rules.md" %}
-
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/f1nQ9NCeoIDzSIHqg1f5/" %}

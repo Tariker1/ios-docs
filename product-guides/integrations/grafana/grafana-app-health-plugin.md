@@ -1,3 +1,3 @@
 # Grafana App Health Plugin
 
-{% include "../../../.gitbook/includes/grafana-app-health-plugin.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/uALvXSL3tTo8Xk8mHRgt/" %}

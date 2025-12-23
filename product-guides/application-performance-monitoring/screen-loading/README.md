@@ -1,9 +1,3 @@
----
-description: >-
-  Capture how long it takes for a particular screen to load automatically in
-  your iOS apps.
----
-
 # Screen Loading
 
-{% include "../../../.gitbook/includes/screen-loading.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/1KfHZDV0Vemo9xX8ELlu/" %}

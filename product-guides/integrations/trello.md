@@ -1,3 +1,3 @@
 # Trello
 
-{% include "../../.gitbook/includes/trello-integration.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/Ec1DxMs7BFcBLLOD0cV9/" %}

@@ -1,3 +1,3 @@
 # New Relic
 
-{% include "../../.gitbook/includes/newrelic-integration.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/qAb6coaUwclxDzsyjDbr/" %}

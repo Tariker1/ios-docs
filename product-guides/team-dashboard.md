@@ -1,3 +1,3 @@
 # Team Dashboard
 
-{% include "../.gitbook/includes/team-dashboard.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/V7HlGeRGrFWn3dmXloPi/" %}

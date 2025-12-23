@@ -1,9 +1,3 @@
----
-description: Automatically forward all bugs and issues from Luciq with simple zaps.
----
-
 # Zapier
 
-{% include "../../.gitbook/includes/zapier-integration.md" %}
-
-Updated 15 days ago
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/QhYJmLvhGdwCjKi5T9ok/" %}

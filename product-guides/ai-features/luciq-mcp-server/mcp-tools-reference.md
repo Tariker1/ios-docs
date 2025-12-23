@@ -1,5 +1,3 @@
 # MCP Tools Reference
 
-{% include "../../../.gitbook/includes/mcp-tools.md" %}
-
-<br>
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/nOSDR2fJfWoUPZnuRDma/" %}

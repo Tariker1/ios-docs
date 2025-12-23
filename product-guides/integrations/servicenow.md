@@ -1,7 +1,3 @@
----
-description: Forward your bug reports to your ServiceNow integration.
----
-
 # ServiceNow
 
-{% include "../../.gitbook/includes/servicenow-integration.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/g6IdSuuoDExNXRf6QWJi/" %}

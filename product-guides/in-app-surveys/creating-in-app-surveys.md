@@ -1,9 +1,3 @@
----
-description: >-
-  This page contains an overview of the content available in the In App Surveys
-  sections of the Luciq Docs for iOS apps
----
+# Creating In-App Surveys
 
-# Creating In-app Surveys
-
-{% include "../../.gitbook/includes/create-surveys-guide.md" %}
+{% include "https://app.gitbook.com/s/AM8wNfllcup3GnWJ1WtW/~/reusable/g5HsnxfCz3LUjZ3WWXXC/" %}
